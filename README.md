@@ -32,12 +32,15 @@ E1_BucketSort.py
 
 练习8：
 冒泡排序
+E1_BubbleSort.py
 
 练习9：
 简单选择排序
+E1_SelectSort.py
 
 练习10：
 希尔排序
+E1_ShellSort.py
 
 相关排序的复杂度和图片示例：
 ![Image text](https://github.com/YingheSun/algorithms/blob/master/sortImg1.png)
