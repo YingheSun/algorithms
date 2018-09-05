@@ -40,3 +40,5 @@ E1_BucketSort.py
 希尔排序
 
 相关排序的复杂度和图片示例：
+![Image text](https://github.com/YingheSun/algorithms/blob/master/sortImg1.png)
+![Image text](https://github.com/YingheSun/algorithms/blob/master/sortImg.png)
