@@ -13,8 +13,6 @@ E1_MergeSort.py
 练习3：
 堆排序
 E1_StackSort.py
-平均性能
-O(N*logN)
 
 练习4：
 快速排序
