@@ -24,7 +24,19 @@ E1_CountingSort.py
 
 练习6：
 基数排序
-E1_radixSort.py
+E1_RadixSort.py
 
 练习7：
 桶排序
+E1_BucketSort.py
+
+练习8：
+冒泡排序
+
+练习9：
+简单选择排序
+
+练习10：
+希尔排序
+
+相关排序的复杂度和图片示例：
