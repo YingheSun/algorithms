@@ -29,8 +29,6 @@ def heap(arr):
 
 from random import randint
 arr = [-1] + [randint(0, 1000) for i in range(20)]
-
-
 print(arr)
 heap(arr)
 print(arr)

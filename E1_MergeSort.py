@@ -30,4 +30,4 @@ def merge_sort(lists):
 
 if __name__ == '__main__':
     a = [4, 7, 8, 3, 5, 9]
-    print merge_sort(a)
+    print(merge_sort(a))

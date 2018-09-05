@@ -20,9 +20,11 @@ E1_QuickSort.py
 
 练习5：
 计数排序
+E1_CountingSort.py
 
 练习6：
 基数排序
+E1_radixSort.py
 
 练习7：
 桶排序
